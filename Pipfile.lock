@@ -18,7 +18,7 @@
     "default": {
         "robotframework": {
             "git": "https://github.com/ollipa/robotframework.git",
-            "ref": "c3382f16b410c93668194352357a2ed18ece1480"
+            "ref": "ea7225066ee344cf9d3a6fd935b8cad714f0dfa5"
         }
     },
     "develop": {}

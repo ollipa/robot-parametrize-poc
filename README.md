@@ -9,3 +9,10 @@ pipenv shell
 pipenv sync
 robot tests
 ```
+
+ or
+
+ ```sh
+pip install -r requirements.txt
+robot tests
+```
