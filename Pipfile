@@ -1,0 +1,12 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+robotframework = {ref = "feature/suite-parametrize", git = "https://github.com/ollipa/robotframework.git"}
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"

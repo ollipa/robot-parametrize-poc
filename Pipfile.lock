@@ -1,0 +1,25 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "c9a7329bf028a6977ec2e0919ad309a5e61bca2d97158e6e913043959fe463ac"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.8"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "robotframework": {
+            "git": "https://github.com/ollipa/robotframework.git",
+            "ref": "c3382f16b410c93668194352357a2ed18ece1480"
+        }
+    },
+    "develop": {}
+}
